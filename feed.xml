@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Förderverein Kita Saarlouis Roden</title>
+    <link href="https://tobias-theobald.github.io/fv-web-preview/feed.xml" rel="self" />
+    <link href="https://tobias-theobald.github.io/fv-web-preview" />
+    <updated>2024-11-24T23:04:52+01:00</updated>
+    <author>
+        <name>Vereinsvorstand</name>
+    </author>
+    <id>https://tobias-theobald.github.io/fv-web-preview</id>
+
+    <entry>
+        <title>Kinderkleiderbörse 2024</title>
+        <author>
+            <name>Vereinsvorstand</name>
+        </author>
+        <link href="https://tobias-theobald.github.io/fv-web-preview/blog/kinderkleiderboerse-2024/"/>
+        <id>https://tobias-theobald.github.io/fv-web-preview/blog/kinderkleiderboerse-2024/</id>
+
+        <updated>2024-10-11T18:28:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Die Kinderkleiderbörse war ein voller Erfolg!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Die Kinderkleiderbörse war ein voller Erfolg!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Förderverein Kita Saarlouis Roden",
+    "description": "",
+    "home_page_url": "https://tobias-theobald.github.io/fv-web-preview",
+    "feed_url": "https://tobias-theobald.github.io/fv-web-preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vereinsvorstand"
+    },
+    "items": [
+        {
+            "id": "https://tobias-theobald.github.io/fv-web-preview/blog/kinderkleiderboerse-2024/",
+            "url": "https://tobias-theobald.github.io/fv-web-preview/blog/kinderkleiderboerse-2024/",
+            "title": "Kinderkleiderbörse 2024",
+            "summary": "Die Kinderkleiderbörse war ein voller Erfolg!",
+            "content_html": "<p>Die Kinderkleiderbörse war ein voller Erfolg!</p>",
+            "author": {
+                "name": "Vereinsvorstand"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-11T18:28:06+02:00",
+            "date_modified": "2024-11-24T23:04:52+01:00"
+        }
+    ]
+}

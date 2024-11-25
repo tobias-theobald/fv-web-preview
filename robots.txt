@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tobias-theobald.github.io/fv-web-preview/sitemap.xml
